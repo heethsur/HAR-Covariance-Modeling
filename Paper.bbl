@@ -1,0 +1,82 @@
+\begin{thebibliography}{10}
+
+\bibitem{Bollerslev1998}
+T.G. Andersen and T.~Bollerslev.
+\newblock Answering the skeptics: Yes, standard volatility models do provide
+  accurate forecasts.
+\newblock {\em International Economic Review}, 39(4):885--905, 1998.
+
+\bibitem{Bollerslev2018}
+T.~Bollerslev, A.J. Patton, and R.~Quaedvlieg.
+\newblock Modeling and forecasting (un) reliable realized covariances for more
+  reliable financial decisions.
+\newblock {\em Journal of Econometrics}, 207(1):71--91, 2018.
+
+\bibitem{Chiriac2011}
+R.~Chiriac and V.~Voev.
+\newblock Modelling and forecasting multivariate realized volatility.
+\newblock {\em Journal of Applied Econometrics}, 26(6):922--947, 2011.
+
+\bibitem{Corsi2009}
+Fulvio Corsi.
+\newblock A simple long memory model of realized volatility.
+\newblock {\em Journal of Financial Econometrics}, 7(2):174--196, 2009.
+
+\bibitem{Engle2006}
+R.F. Engle and G.M. Gallo.
+\newblock A multiple indicators model for volatility using intra-daily data.
+\newblock {\em Journal of Econometrics}, 131(1):3--27, 2006.
+
+\bibitem{Engle2002}
+Robert Engle.
+\newblock Dynamic conditional correlation: A simple class of multivariate
+  generalized autoregressive conditional heteroskedasticity models.
+\newblock {\em Journal of Business and Economic Statistics}, 20(3):339--350,
+  2002.
+
+\bibitem{Garman1980}
+M.B. Garman and M.J. Klass.
+\newblock On the estimation of security price volatilities from historical
+  data.
+\newblock {\em Journal of Business}, 53:67--78, 1980.
+
+\bibitem{Muller1997}
+U.~Muller, M.~Dacarogna, R.~Dav, R.~Olsen, O.~Pictet, and J.~von Weizsacker.
+\newblock Volatilities of different time resolutions - analysing the dynamics
+  of market components.
+\newblock {\em Journal of Empirical Finance}, 4:213--239, 1997.
+
+\bibitem{OhPatton2016}
+D.H. Oh and A.J. Patton.
+\newblock High-dimensional copula-based distributions with mixed frequency
+  data.
+\newblock {\em Journal of Econometrics}, 193(2):349--366, 2016.
+
+\bibitem{Parkinson1980}
+M.~Parkinson.
+\newblock The extreme value method for estimating the variance of the rate of
+  return.
+\newblock {\em Journal of Business}, 53:61--65, 1980.
+
+\bibitem{Rogers1991}
+L.C.G. Rogers and S.E. Satchell.
+\newblock Estimating variance from high, low and closing prices.
+\newblock {\em Annals of Applied Probability}, 1:504--512, 1991.
+
+\bibitem{Rogers2008}
+L.C.G. Rogers and F.~Zhou.
+\newblock Estimating correlation from high, low, opening and closing prices.
+\newblock {\em Annals of Applied Probability}, 18(2):813--823, 2008.
+
+\bibitem{Symitsi2018}
+E.~Symitsi, L.~Symeonidis, A.~Kourtis, and R.~Markellos.
+\newblock Covariance forecasting in equity markets.
+\newblock {\em Journal of Banking and Finance}, 96:153--168, 2018.
+
+\bibitem{Yang2000}
+D.~Yang and Q.~Zhang.
+\newblock Drift‐independent volatility estimation based on high, low, open,
+  and close prices.
+\newblock {\em Journal of Business}, 73(3):477--492, 2000.
+
+\end{thebibliography}
