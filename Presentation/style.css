@@ -1,0 +1,26 @@
+
+.equation-container {
+    max-width: 100%; /* Adjust the maximum width as needed */
+    overflow: auto; /* Enable horizontal scrolling if necessary */
+    white-space: nowrap; /* Prevent line breaks */
+}
+
+p img {
+    display: block;
+    margin: 0 auto;
+}
+
+/* Center-align the images within the slide */
+.slide-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%; /* Set the slide height */
+}
+
+/* Style the images */
+.image {
+    max-width: 50%; /* Adjust the width of the images as needed */
+    height: auto;
+    padding: 20px; /* Add padding for spacing between images */
+}
