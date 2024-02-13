@@ -11,3 +11,7 @@ noise for reliable daily volatility measurements. An alternative implementation 
 
 The specification is further extended to also separately model asset correlations. The model is trained and tested in a mixed-asset portfolio of S&P 500, US 10-yr Treasuries,
 Gold, and WTI Crude Oil. Model parameters and performance results are calculated and evaluated. View paper and code files for detailed implementations and discussions.
+
+- HAREngine.py contains the Python code used to construct the time series forecasting model.
+
+- Paper.pdf is the white paper containing a detailed discussion of methodology and results.
